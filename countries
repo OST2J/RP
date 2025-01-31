@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WMRP2 - Countries</title>
+</head>
+<body>
+
+  <h1>WMRP2 - Countries</h1>
+
+  <p>By VDH2J.</p>
+
+  <ul>
+    <li><a href="company.html">The Company</a></li> 
+    <li><a href="republic.html">The Republic</a></li> 
+    <li><a href="albany.html">The Republic of Albany</a></li> 
+    <li><a href="alpes.html">The United States of the Alpes</a></li> 
+    <li><a href="mexico.html">Mexico</a></li> 
+    <li><a href="hk.html">The Republic of Hong Kong</a></li> 
+    <li><a href="pb.html">Poland-Belarus</a></li> 
+    <li><a href="italy.html">Italy</a></li> 
+    <li><a href="spain.html">The Spanish Republic</a></li> 
+    <li><a href="tx.html">Texas</a></li> 
+    <li><a href="uae.html">The United Arab Emirates</a></li> 
+    <li><a href="florida.html">La Republica de la Florida</a></li> 
+    <li><a href="scotland.html">Scotland</a></li> 
+  </ul>
+
+
+</body>
+</html>
